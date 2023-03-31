@@ -6,6 +6,7 @@ type: page
 topic: project
 link: "https://www.mathbraintrainer.com"
 image: "/images/braintrainer.png"
+draft: true
 ---
 
 
